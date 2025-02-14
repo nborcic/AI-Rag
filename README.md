@@ -15,14 +15,11 @@ This application combines the power of large language models with a document ret
 - **Frontend**: Next.js, TypeScript, Tailwind CSS
 - **Backend**: Node.js
 - **AI/ML**: RAG (Retrieval-Augmented Generation)
-- **Vector Database**: (Your chosen vector DB)
 
 ## Getting Started
-
 Clone the repository:
 
-git clone https://github.com/yourusername/
-cd ai-rag-app
+git clone https://github.com/nborcic/AI-Rag
 npm install
 Set up env
 npm run dev
